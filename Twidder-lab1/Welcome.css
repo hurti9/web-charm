@@ -1,0 +1,64 @@
+ body{background-color:blue;}
+
+#container{
+	position: relative;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	height: 400px;
+	background-color: blue;
+	
+
+}
+
+#logo {
+	position:absolute;
+	height: 400px;
+	width: 340px;
+	border-style: solid;
+	border-width: 1px;
+}
+.form{
+	position:static;
+	font-size: 12px;
+	width: 250px;
+	float: right;
+	margin-left: 350px;
+	border-style: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	background-color:white;
+}
+.form select{
+	width: 150px;
+	float: right;
+	height:6%;
+}
+.form label {
+	width: 100px;
+	height: 6%;
+	position: relative;
+	float: left;
+	text-align: bottom-left;
+
+}
+.form input{
+	height: 6%;
+	width: 150px;
+	float: right;
+}
+#login{
+
+}
+#submit{
+width: 60px;
+}
+#submit1{
+width: 60px;
+
+}
+
+#signup{
+
+}
