@@ -210,6 +210,5 @@ def init_db():
         db.commit()
 
 if __name__ == '__main__':
-
         app.run(Debug=True)
 
